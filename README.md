@@ -1,0 +1,2 @@
+# PlaskToUE5
+PlaskのManeqquinをUE5のMannequinにリターゲットするサンプルプロジェクト
